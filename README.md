@@ -1,11 +1,8 @@
 ESP32-NODEMCU WiFi Jammer
-
 อุปรณ์รบกวนสัญญาณ Bluetooth,WiFi,Remote และอื่นๆที่อยู่ในคลื่นความถี่ 2.4Ghz
-
 วิธี Flash ลงบอร์ด
 1.โหลดไฟล์ jammer.bin
 2.ไปที่เว็บ https://espressif.github.io/esptool-js
-
 วิธีใช้งาน
 เชื่อมต่อ WiFi ที่ชื่อ "MarkTV" รหัสผ่าน "admin1234"
 แล้วเข้าไปที่เว็บ "192.168.1.67"
