@@ -4,6 +4,7 @@ ESP32-NODEMCU WiFi Jammer
 อุปรณ์รบกวนสัญญาณ Bluetooth,WiFi,CCTV และอื่นๆที่อยู่ในคลื่นความถี่ 2.4Ghz
 
 
+
 วิธี Flash ลงบอร์ด
 
 
@@ -17,6 +18,7 @@ ESP32-NODEMCU WiFi Jammer
 
 
  4.กดปุ่ม RST 1 ครั้งบนบอร์ด , ไม่ก็ถอดเสียบ ESP32 ใหม่
+
 
 
 วิธีใช้งาน
