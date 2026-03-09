@@ -13,6 +13,12 @@ ESP32-NODEMCU WiFi Jammer
 2.ไปที่เว็บ https://espressif.github.io/esptool-js
 
 
+ 3.!!ระหว่างขั้นตอนนี้กดปุ่ม BOOT บน ESP32 ค้างไว้ตลอด!! > กด Connect (Baudrate 115200) > เลือก COM (พอร์ต) ของ ESP32 > เลือกไฟล์ jammer.ino.merged.bin > Flash Address ใส่ 0x0 > กด Program และรอจนแฟลชเสร็จ
+
+
+ 4.กดปุ่ม RST 1 ครั้งบนบอร์ด , ไม่ก็ถอดเสียบ ESP32 ใหม่
+
+
 วิธีใช้งาน
 
 
