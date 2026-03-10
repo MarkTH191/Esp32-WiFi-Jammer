@@ -36,7 +36,7 @@ ESP32-NODEMCU WiFi Jammer
 
 
 
-ESP32(ในคลิปผมใช้แบบ 38PIN นะครับ!!!): https://s.shopee.co.th/AUpAR1dTKz
+ESP32(แบบ 38PIN นะครับ!!!): https://s.shopee.co.th/AUpAR1dTKz
 
 
 
