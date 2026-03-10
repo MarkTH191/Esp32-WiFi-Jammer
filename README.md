@@ -29,4 +29,7 @@ ESP32-NODEMCU WiFi Jammer
 
 แล้วเข้าไปที่เว็บ "192.168.1.67"
 
+
+<img width="1536" height="1024" alt="2816d165-360b-48bf-8f89-a16286869d93" src="https://github.com/user-attachments/assets/db6dfdbc-ed1c-464e-8e1b-f9d84d9a6012" />
+
 ![daab86d8-4e1c-4bbc-9f9c-0cb122080f9e](https://github.com/user-attachments/assets/13db2ec7-7399-4359-a7d1-f8caa7e35b17) ![a83d5797-57be-4656-9c80-76385ddf655a](https://github.com/user-attachments/assets/d06040d1-8803-4e6f-90ee-7d8b33fd386d)
